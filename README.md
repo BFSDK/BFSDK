@@ -1,3 +1,1 @@
-Hello! Im create IDE for pythonand other projects!
-
-thx for using my product. And, im russian
+Это редаетор кода для Python. Ничего необычного.
